@@ -1,0 +1,29 @@
+{
+  "known_at_cutoff": "2026-11-01T00:00:00+08:00",
+  "score_bounds": [
+    0,
+    100
+  ],
+  "delta_grid": [
+    -40,
+    -35,
+    -30,
+    -25,
+    -20,
+    -15,
+    -10,
+    -5,
+    0,
+    5,
+    10,
+    15,
+    20
+  ],
+  "bootstrap_repeats": 200,
+  "seed": 1120102,
+  "comparison": [
+    "A",
+    "B"
+  ],
+  "target_difference": 0
+}

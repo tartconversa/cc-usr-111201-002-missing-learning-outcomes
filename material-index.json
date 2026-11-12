@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/analysis.json",
+    "sha256": "34360c6e0a26c753bf4970fcaa6ea6f3ed476c72ccf7ae33bbe70ba7040fafb2",
+    "size_bytes": 337
+  },
+  {
+    "path": "fixtures/enrolment.csv",
+    "sha256": "bf04c5c6af304b557c43e326ac27be8523f3129ef243618d2e1f79147bd2a215",
+    "size_bytes": 235
+  },
+  {
+    "path": "fixtures/scores.csv",
+    "sha256": "7ef2244a0788dadcdcfb8b35e8e75078755ca7b0c1c90e431211c827c25832b8",
+    "size_bytes": 672
+  }
+]
